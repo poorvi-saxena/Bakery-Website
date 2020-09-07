@@ -1,0 +1,106 @@
+h1 {
+font-family: 'Kalam', cursive;
+  font-size: 60px;
+  margin-top: 2rem;
+margin-bottom: 3rem;
+line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Karla', sans-serif;
+  padding-left: 20px;
+  font-size: 30px;
+  line-height: 2;
+}
+
+h3{
+margin-bottom: 2rem;
+}
+
+h4{
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h5{
+  margin-bottom: 3rem;
+font-size: 2.5rem;
+  color: #8f8f8f;
+  font-family: 'Amita', cursive;
+}
+
+h6{
+color: #8f8f8f;
+font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* navigation bar */
+.nav-item{
+  margin: 0 1rem;
+}
+
+/* Front page */
+#intro-page {
+  background-color: #af8baf;
+  padding: 2.5rem 12%;
+  text-align: center;
+}
+
+.table-img{
+  margin-left: 5rem;
+  width: 300px;
+  border-radius: 80%;
+}
+
+/* recipes */
+
+#recipes{
+  background-color: #f8e1f4;
+  padding: 5% 10% 3%;
+  text-align: center;
+}
+
+.rec-box{
+  padding: 1rem 2rem;
+}
+
+.rec-img{
+  border-radius: 60%;
+  width: 220px;
+  height: 220px;
+  margin-bottom: 2rem;
+
+}
+
+/* location */
+#location {
+    text-align: center;
+  padding: 6% 6%;
+  background-color: white ;
+}
+
+.loc-img{
+  width: 80%;
+  height: 300px;
+}
+
+/* contact  */
+#contact {
+  background-color: #f1f9f9;
+  text-align: center;
+  padding: 2% 12% 1rem;
+}
+
+.con-btn {
+  margin-bottom: 2rem;
+}
+
+.socico {
+  margin: 1rem 1rem;
+  margin-bottom: 0;
+}
